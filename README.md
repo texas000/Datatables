@@ -1,5 +1,5 @@
 # Datatables
 ## Intro
-English
+This page introduce you how to use datatable efficiently.
 
 #
